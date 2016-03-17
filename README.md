@@ -11,7 +11,7 @@
 
 ######At Made In Space, we believe that the potential of offworld manufacturing is much larger than just the vision of one company. One day everything in space will be made in space, but only if we work together to make that reality happen. With your help, we can realize the true potential for bringing manufacturing to space.
 
-The Offworld Manufacturing Specifications (OM-Spec) Manual represents over five years of study and and work beyond the state of the art at Made In Space to put the capability of space manufacturing into the hands of developers, designers, businesses, and consumers across the globe. 
+The Space-Based Manufacturing Specifications (SBM-Spec) Manual represents over five years of study and and work beyond the state of the art at Made In Space to put the capability of space manufacturing into the hands of developers, designers, businesses, and consumers across the globe. 
 
 As an Open Published format, the contents will be continually evolving. We welcome your support in future iterations. In the current release we are making available the interface standards for the core aspects for additive manufacturing techniques in space. These include; Materials Handling, Materials Processing, and the Manufacturing Environment.
 
