@@ -1,9 +1,13 @@
 # OM-Spec
 ###Offworld Manufacturing Specifications
 
+---Landing Page Text :arrow_down:---
+
 ######Open source interface components and hardware design guide to create consistency and excellent user experiences across space-based manufacturing platforms.
 
 ###The Defacto Standard for Offworld Manufacturing
+
+---Introduction Text :arrow_down:---
 
 ######The MIS Open Published Interface Design Standards are designed to set a new bar for simplicity and consistency across space manufacturing platforms, while providing you with plug-and-build design and code.
 
