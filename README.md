@@ -13,7 +13,7 @@
 
 ###For Hardware Designers
 
-######At Made In Space, we believe that the potential of offworld manufacturing is much larger than just the vision of one company. One day everything in space will be made in space, but only if we work together to make that reality happen. With your help, we can realize the true potential for bringing manufacturing to space.
+######At Made In Space, we believe that the potential of offworld manufacturing is much larger than the vision of one company. One day everything in space will be made in space, but only if we work together to make that reality happen. With your help, we can realize the true potential for bringing manufacturing to space.
 
 The Space-Based Manufacturing Specifications (SBM-Spec) Manual represents over five years of study and and work beyond the state of the art at Made In Space to put the capability of space manufacturing into the hands of developers, designers, businesses, and consumers across the globe. 
 
