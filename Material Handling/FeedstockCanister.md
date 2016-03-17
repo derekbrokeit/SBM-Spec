@@ -1,5 +1,5 @@
-i#Material Handling
-##[Feedstock Canister](http://made-in.space/feedstockcanister)
+#Material Handling |
+##[Feedstock Canister](http://sbmspec.com/feedstock-canister)
 
 ######The feedstock canister contains the raw materials used for manufacturing systems in microgravity.
 
