@@ -1,6 +1,14 @@
 #End Effector
 
-#####End effectors can have a variety of used and locations to be installed. They can be a 3D print head as well as other peripherals such as subtractive manufacturing heads, metrology devices, post processing attachments, etc. 
+#####End effectors can have a variety of used and locations to be installed. They can be a 3D print head as well as other peripherals such as subtractive manufacturing heads, metrology devices, post processing attachments, and more. 
+
+##Specifications and Technical Notes
+
+####For Hardware Designers
+
+####For Software Engineers
+
+####For Manufacturing Engineers
 
 ####Physical Interfaces
 
