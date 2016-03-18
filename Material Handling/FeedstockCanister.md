@@ -1,9 +1,17 @@
 #Material Handling |
 ##[Feedstock Canister](http://sbmspec.com/feedstock-canister)
 
-######The feedstock canister contains the raw materials used for manufacturing systems in microgravity.
+######The feedstock canister is an enclosure for containing wire feedstocks for manufacturing and processing. It provides a safe environment for maintaining material integrity as well as access for control of feedstock in and out of the canister.
 
 Up to 2 materials can be fed into the printer at one time. The canisters may be supplied power and data for commanding electrical subsystems for robotically manipulating the filament.
+
+##Specifications and Technical Notes
+
+###For Hardware Designers
+
+###For Software Engineers
+
+###For Manufacturing Engineers
 
 #####Physical Interfaces
 
