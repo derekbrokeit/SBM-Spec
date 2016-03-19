@@ -1,4 +1,4 @@
-# OM-Spec
+# SBM-Spec
 ###Offworld Manufacturing Specifications
 
 ---Landing Page Text :arrow_down:---

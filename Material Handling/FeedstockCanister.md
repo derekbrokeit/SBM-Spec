@@ -3,7 +3,7 @@
 
 ######The feedstock canister is an enclosure for containing wire feedstocks for manufacturing and processing. It provides a safe environment for maintaining material integrity as well as access for control of feedstock in and out of the canister.
 
-Up to 2 materials can be fed into the printer at one time. The canisters may be supplied power and data for commanding electrical subsystems for robotically manipulating the filament.
+One filament can be fed into the printer at one time. The canisters may be supplied power and data for commanding electrical subsystems for robotically manipulating the filament.
 
 ##Specifications and Technical Notes
 
@@ -15,7 +15,7 @@ Up to 2 materials can be fed into the printer at one time. The canisters may be 
 
 #####Physical Interfaces
 
-The standard  `feedstock canister` interface is deisgned to accept up to **two** different materials at one time. The `exit ports` for the filament are shown in the diagram *needs ref*. Each part is capable of accepting filament up to `3mm diameter` with the nominal being `1.75mm diameter`.
+The standard  `feedstock canister` interface allows for rapid integration into payloads. The `exit port` for the filament are shown in the diagram *needs ref*. The feedstock canister can exchange `1.75mm diameter` filament with the payload.
 
 The outer dimensions shall not exceed the dimensions listed in the diagram.
 
