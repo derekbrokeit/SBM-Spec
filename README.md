@@ -20,12 +20,13 @@ infused into current and future space manufacturing platforms.
 
 ###For Hardware Desigers
 
-Give an overview of how this guide provides foundational information that new hardware designers can use to extend the current technology.
+The SBM-Spec enables hardware designers to create new capabilities for existing space-based manufacturing platforms as well as capabilities that conform well to new platforms as they come online. The standardized interfaces in this document may be leveraged by hardware designers to create added value sub-systems to enable a broader ecosystem of manufacturing in space. For consistent design practice, all interface descriptions in this document are be presented utilizing the metric system. Various standards documents are referenced in sub-sections of this document when they pertain specifically to given interfaces. Generally, any applications of the SBM-Spec where hardware that will be utilized in a crewed environment in space the hardware designer should reference the NASA Payload Safety Policy and Requirements for the International Space Station, document SSP 51700.
 
-###For Software Engineers
+###For Software and Electrical Engineers
 
-Give an overview of how this guide provides foundational information that software engineers can use to extend the current technology.
+Software and electrical engineers may work simultaneously to develop control systems for expaning on current space-based manufacturing platforms. The SBM-Spec describes various standard interfaces which consist of an electro-mechnical aspect. In these situations the generation of software to control given processes may be necessary. In the current release of the SBM-Spec certain standard electrical connections are defined, however no specific software language or code base is defined for controlling electro-mechanical connections. 
+
 
 ###For Manufacturing Engineers
 
-Give an overview of how this guide provides foundational information that manufacturers can use to plan builds of hardware designed on the SBM-Spec standards.
+The SBM-Spec enables manufacturing engineers to build hardware according to a standard design specification. For consistent manufacturing practice, all interface and design descriptions in this document are be presented utilizing the metric system. Various standards documents are referenced in sub-sections of this document when they pertain specifically to given interfaces. The manufacturing engineer is encouraged to reference these documents when necessary to ensure that new hardware is built according to globally accepted requirements. Generally, any applications of the SBM-Spec where hardware that will be utilized in a crewed environment in space the mechanical engineer should reference the NASA Payload Safety Policy and Requirements for the International Space Station, document SSP 51700.
