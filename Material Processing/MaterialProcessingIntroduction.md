@@ -9,3 +9,5 @@ In the current release of the SBM-Spec, the following Material Processing interf
 **End Effector:** The end effector interface is defined as a volumetric body with a physical threaded hole pattern for mounting to a manufacturing system as well as an electrical connection for providing power/data to the end effector.
 
 End effectors provide both invasive and non-invasive forms of processing and are used throughout many different material processes. Example end effectors include additive manufacturing extruders, subtractive manufacturing end mills, and inspection sensor units.
+
+Throughout this document several approved spaceflight standards will be referenced in order to ensure new developments meet approved requirements. In general the defacto document to reference is the NASA Payload Safety Policy and Requirements for the International Space Station, document SSP 51700.
