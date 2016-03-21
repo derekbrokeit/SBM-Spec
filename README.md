@@ -13,7 +13,7 @@
 
 As an Open Published format, the contents will be continually evolving. We welcome your support in future iterations. The current release makes available the interface standards for the core aspects for additive manufacturing techniques in space. These include; Materials Handling, Materials Processing, and the Manufacturing Environment.
 
-Each of these aspects contains an assortment of interface descriptions that are open to the community to develop new hardware and software upon. We invite you to read through the interface releases and standards. These interfaces are currently in use by the MIS additive manufacturing and recycling programs (3D Print, AMF, R3DO). These interfaces are the cornerstone of our plug-and-play technologies, which means that as new technologies are developed by the community they can be
+Each of these aspects contains an assortment of interface descriptions that are open to the community to develop new hardware and software upon. We invite you to read through the interface releases and standards. These interfaces are currently in use by the MIS additive manufacturing facility (AMF). These interfaces are the cornerstone of our plug-and-play technologies, which means that as new technologies are developed by the community they can be
 infused into current and future space manufacturing platforms.
 
 ##How to Use this Document
