@@ -24,7 +24,7 @@ The SBM-Spec enables hardware designers to create new capabilities for existing 
 
 ###For Software and Electrical Engineers
 
-Software and electrical engineers may work simultaneously to develop control systems for expaning on current space-based manufacturing platforms. The SBM-Spec describes various standard interfaces which consist of an electro-mechnical aspect. In these situations the generation of software to control given processes may be necessary. In the current release of the SBM-Spec certain standard electrical connections are defined, however no specific software language or code base is defined for controlling electro-mechanical connections. 
+Software and electrical engineers may work simultaneously to develop control systems for expanding on current space-based manufacturing platforms. The SBM-Spec describes various standard interfaces which consist of an electro-mechanical aspect. In these situations the generation of software to control given processes may be necessary. In the current release of the SBM-Spec certain standard electrical connections are defined, however no specific software language or code base is defined for controlling electro-mechanical connections. 
 
 
 ###For Manufacturing Engineers
