@@ -29,10 +29,9 @@ Software engineers and electrical engineers may work simultaneously to design co
 
 ####For Manufacturing Engineers
 
-As with the technical notes listed above for hardware designers, manufacturing engineers should leverage the tool head drawing as a defacto blueprint for manufacturing new instances of the hardware. The MOLEX connector can be mounted within the tool head volume in a variety of manners, leaving freedom to the manufacturing engineer to choose which method best suits the given purpose.
+he MOLEX connector can be mounted within the tool head volume in a variety of manners, leaving freedom to the manufacturing engineer to choose which method best suits the given purpose.
 
-A general best practice when manufacturing the tool head is to abide by NASA Payload Safety Policy and Requirements for the International Space Station, document SSP 51700, in order to meet safety and human factors requirements. Since the tool head is a component that at some point may be handled by crew, certain design additions may need to be made to enable accessibility and ease of manipulation as well as safety to the crew from sharp edges or hot ends. This design exercise is
-left to the manufacturing engineer and hardware designer to determine what is best given the specific mission needs based on flight proven specifications and requirements.
+A general best practice when manufacturing the tool head is to abide by NASA Payload Safety Policy and Requirements for the International Space Station, document SSP 51700, in order to meet safety and human factors requirements. Since the tool head is a component that at some point may be handled by crew, certain design additions may need to be made to enable accessibility and ease of manipulation as well as safety to the crew from sharp edges or hot ends.
 
 #####Material Properties
 
