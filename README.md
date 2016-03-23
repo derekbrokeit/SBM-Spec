@@ -1,5 +1,5 @@
 # SBM-Spec
-###Offworld Manufacturing Specifications
+##Space-Based Manufacturing Specifications Manual
 
 ---Landing Page Text :arrow_down:---
 
